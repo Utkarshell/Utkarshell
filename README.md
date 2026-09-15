@@ -3,7 +3,7 @@
 <p align="center">
 
 <samp>
-  Exploring possibilities in search of Freedom.
+  Do I contradict myself?  
 </samp>
 
 </p>
