@@ -2,7 +2,7 @@
 delete sys. 64.0: Do I contradict myself?
 ------------------------------------------------------------------------
 Name: Utkarsh
-WhoamI: I am a 19 year old undergrad student. doing stuff that are useless but i find it cool;
+WhoamI: I am 235 moons old, undergrad student. doing stuff that are useless but i find it cool;
         I've been using linux for 1.5 years and not going back anywhere :3 
         
 OS: Ubuntu with sway <3
